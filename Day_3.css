@@ -18,3 +18,8 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+#para{
+    font-family: 'Inspiration', cursive;
+    font-variant: small-caps;
+    font-weight: bold;
+}
