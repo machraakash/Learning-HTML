@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.Header{
+    width: 100%;
+    background-color: black;
+    height: 80px;
+}
+.Logo{
+    width: 30%;
+    background-color:orange;
+    line-height: 80px;
+    text-align: center;
+    float: left;
+}
+.Menu{
+    width: 70%;
+    background-color: teal;
+    line-height: 80px;
+    text-align: center;
+    float: right;
+}
+ul{
+    list-style:none;
+}
+li{
+    display: block;
+}
